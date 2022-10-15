@@ -1,3 +1,31 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIxIiwKICAiYWRkIjogInd3dy5mcmVlbWlhbmxpaXUuZXUub3JnIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJiNWMyNjlmNC1iOTU5LTRkYjctZTk4YS04ZDdmNjE1NDViMjIiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIm0udC4xNzE4Ni5jbiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
-vmess://eyJhZGQiOiJlZS5vcHBvLnF1ZXN0IiwiYWlkIjoiMCIsImhvc3QiOiJlZS5vcHBvLnF1ZXN0IiwiaWQiOiJmOTI0N2RmNC0wMmQ1LTRiMzEtYWNjNS00MDIyNjUyYzU5NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0IjoiODAiLCJwcyI6IkBhcmllc19pbml0LUVF8J+HqvCfh7pfcGlsd1/nm7Tov55fUG9ydDgwX+aXoOmZkOa1gemHjyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ3d3cuZ292LmhrIiwiYWlkIjoiMCIsImhvc3QiOiJlZS5jbG91ZGZsYXJlLnF1ZXN0IiwiaWQiOiJmOTI0N2RmNC0wMmQ1LTRiMzEtYWNjNS00MDIyNjUyYzU5NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0IjoiODAiLCJwcyI6IkBhcmllc19pbml0LUVF8J+HqvCfh6pfcGlsd19DbG91ZEZsYXJlX+aXoOmZkOa1gemHjyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+{
+
+//0719JAR
+//"spider":"http://52bsj.vip:81/api/v3/file/get/768/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0719.jar?sign=zH9rMT-Uy_WpE0bPeyPzs1QOgbl0NZXdF5KOFuhEgfw%3D%3A0",
+
+
+
+//0730JAR
+"spider":"http://52bsj.vip:81/api/v3/file/get/56996/1009.jar?sign=mO17Y9bJ_-nMnSZogCFcCVskXX7aC-YTuIvwbIm-IEU%3D%3A0;md5;648653a1067c03abb0ef369a463d7e20",
+
+
+
+
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
+
+"sites":[
+	{
+	     "key": "Lezhu_spider",
+	     "name": "🐷乐猪影视",
+	     "api": "csp_Lezhu",
+	     "type": 3,
+	     "filterable": 1,
+	     "quickSearch": 1,
+	     "searchable": 1,
+	     "jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
+    },
+{
+		"key": "py_cctv",
+		"
